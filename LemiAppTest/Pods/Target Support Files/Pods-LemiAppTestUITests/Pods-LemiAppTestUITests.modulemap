@@ -1,0 +1,6 @@
+framework module Pods_LemiAppTestUITests {
+  umbrella header "Pods-LemiAppTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
